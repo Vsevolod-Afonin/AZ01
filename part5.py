@@ -1,5 +1,3 @@
-from operator import index
-
 import pandas as pd
 
 df = pd.read_csv('animal.csv')
